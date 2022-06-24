@@ -1,1 +1,1 @@
-This script is used for listing the current working directory
+this project is for taking me back home
