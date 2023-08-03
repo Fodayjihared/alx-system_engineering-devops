@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --reference=users.olleh keys.hello
