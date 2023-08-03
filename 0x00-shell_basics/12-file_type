@@ -1,2 +1,2 @@
 #!/bin/bash
-basename /tmp/iamafile
+awk /tmp/iamafile
